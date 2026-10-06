@@ -5,4 +5,4 @@ The most difficult aspect was figuring out how branches and pull requests intera
 Improvements That Could Be Made
 If I were given some additional time, there are some improvements that I would have made to the NASA Mission Tracker project. For example, I would have included more interactive components within the application where one could filter missions based on their current state and obtain more detailed information about each mission. In addition, I would have improved the visual appeal of the user interface.
 
-<img width="451" height="417" alt="image" src="https://github.com/user-attachments/assets/355845a1-5d5b-400c-905f-4c0a432a88c2" />
+
