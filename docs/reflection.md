@@ -1,0 +1,8 @@
+What I Have Learned
+In completing this assignment, I have learned how to utilise GitHub for managing and organising my software project. I learned how to create a repository, create a README file, create GitHub Issues, labels, and assign tasks, create branches, make commits, and utilise pull requests. Additionally, I learned how to plan projects through GitHub Issues. By creating separate branches, I have understood how features can be worked on without directly modifying the master branch. I have also learned how important it is to have detailed commit messages to track the progress of the project.
+What Was Difficult Or Enjoyable
+The most difficult aspect was figuring out how branches and pull requests interact with each other. Initially, it was difficult to understand how one creates a feature branch, makes various commits, and creates and merges a pull request after that. The most enjoyable aspect was building the NASA Mission Tracker and watching all its features become reality. It was also very enjoyable working on organising the project with the help of GitHub Issues.
+Improvements That Could Be Made
+If I were given some additional time, there are some improvements that I would have made to the NASA Mission Tracker project. For example, I would have included more interactive components within the application where one could filter missions based on their current state and obtain more detailed information about each mission. In addition, I would have improved the visual appeal of the user interface.
+
+<img width="451" height="417" alt="image" src="https://github.com/user-attachments/assets/355845a1-5d5b-400c-905f-4c0a432a88c2" />
