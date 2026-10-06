@@ -19,6 +19,14 @@
         margin: 15px 0;
         border-radius: 8px;
     }
+        p {
+    line-height: 1.6;
+}
+
+.status {
+    font-weight: bold;
+    margin: 8px 0;
+}
 </style>
 </head>
 <body>
@@ -27,6 +35,18 @@
     <p>Explore and track NASA space missions.</p>
 
     <h2>Featured Missions</h2>
+    <h2>Mission Status</h2>
+
+<p class="status">Artemis II: Planned</p>
+<p class="status">James Webb Space Telescope: Active</p>
+<p class="status">Mars Exploration: Ongoing</p>
+    <button onclick="showMessage()">Check Mission Updates</button>
+
+<script>
+    function showMessage() {
+        alert("Mission updates are currently available.");
+    }
+</script>
     <div>
     <h3>Artemis II</h3>
     <p>Mission to orbit the Moon and prepare for future lunar exploration.</p>
